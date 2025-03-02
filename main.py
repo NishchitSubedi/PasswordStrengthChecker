@@ -1,4 +1,3 @@
-  GNU nano 8.2                                                                                                                                                                                                                                                                                                         cw2python.py *                                                                                                                                                                                                                                                                                                                 
 import string
 
 STRENGTH_MESSAGES = {
